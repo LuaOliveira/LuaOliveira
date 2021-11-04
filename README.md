@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, my name is Luana Oliveira and I am a physicist who works with data science. I am an undergraduate student at Universidade Virtual de São Paulo [(Univesp)](https://univesp.br/), currently on my first semester.
+Hi, my name is Luana Oliveira and I am a physicist who works with data science. I am an undergraduate student at Universidade Virtual de São Paulo [(Univesp)](https://univesp.br/), currently on my first semester. I am interested in machine learning techniques and applications.
 
 #About me
 
@@ -12,7 +12,11 @@ The year is 2020, a pandemic starts and we are all forced to stay home to protec
 
 #Another passion
 
-I live Brazil, so my native language is portuguese. Growing up I've always loved to unravel the misteries of other cultures, hence I started learning new languages to accomplish that. I speak fluently English, I attended a basic course of french in University, I've been studying german for 5 years (with some pauses along the way) and Japanese for almost a year now. I intend to go back to studying french soon and other languages in the future. 
+I live Brazil, so my native language is portuguese. Growing up I've always loved to unravel the misteries of other cultures, hence I started learning new languages to accomplish that. I speak fluently English, I attended a basic course of french in University, I've been studying german for 5 years (with some pauses along the way) and Japanese for almost a year now. I intend to go back to studying french soon and other languages in the future.
+
+#What I am working on now..
+
+I am working on data series analysis and cloud computing.
 
 #About this Page
 
