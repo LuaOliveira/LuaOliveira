@@ -4,7 +4,7 @@ Hi, my name is Luana Oliveira and I am a physicist who works with data science. 
 
 #About me
 
-I live Brazil, so my native language is portuguese. I always liked to study and always had a passion for exact sciences. In the middle of my final year in high school, in 2012, I was accepted in Universidade de Brasília (UnB) to attend a physics course. I graduated at the end of 2017, soon entering a master's program in the same university, with focus on cosmology and radioastronomy. At the same time I started working as a physics teacher in local public schools and so I remained for almost 4 years until I've decided to follow another career.
+I always liked to study and always had a passion for exact sciences. In the middle of my final year in high school, in 2012, I was accepted in Universidade de Brasília (UnB) to attend a physics course. I graduated at the end of 2017, soon entering a master's program in the same university, with focus on cosmology and radioastronomy. At the same time I started working as a physics teacher in local public schools and so I remained for almost 4 years until I've decided to follow another career.
 
 #An interesting story
 
@@ -12,7 +12,8 @@ The year is 2020, a pandemic starts and we are all forced to stay home to protec
 
 #Another passion
 
-I love to unravel the misteries of other cultures, hence I am always trying to learn new languages to accomplish that. I speak fluently English, I attended a basic course of french in University, I've studied german for almost 5 years now (with some pauses along the way),  and I am also studying Japanese for almost a year now. 
+I live Brazil, so my native language is portuguese. Growing up I've always loved to unravel the misteries of other cultures, hence I started learning new languages to accomplish that. I speak fluently English, I attended a basic course of french in University, I've been studying german for 5 years (with some pauses along the way) and Japanese for almost a year now. I intend to go back to studying french soon and other languages in the future. 
 
-Here are some ideas to get you started:
+#About this Page
 
+Here I'll be sharing some of my creations (good or bad) and what I've been working on. 
