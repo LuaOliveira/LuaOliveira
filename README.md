@@ -2,7 +2,7 @@
 
 Hi, my name is Luana Oliveira and I am a physicist who works with data science. I am an undergraduate student at Universidade Virtual de São Paulo [(Univesp)](https://univesp.br/), currently on my first semester. I am interested in machine learning techniques and applications.
 
-#About me
+##About me
 
 I always liked to study and always had a passion for exact sciences. In the middle of my final year in high school, in 2012, I was accepted in Universidade de Brasília [(UnB)](https://www.unb.br/) to attend a physics course. I graduated at the end of 2017, soon entering a master's program in the same university, with focus on cosmology and radioastronomy. At the same time I started working as a physics teacher in local public schools and so I remained for almost 4 years until I've decided to follow another career.
 
