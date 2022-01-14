@@ -8,7 +8,7 @@ I always liked to study and always had a passion for hard sciences. In the middl
 
 ### An interesting story
 
-The year is 2020, a pandemic starts and we are all forced to stay home to protect ourselves and everybody else from this disease. During this reclusion time, I've decided to leave my master's program and pursue something that I've wanted to since the middle of undergrad: a career in computer science. I ended up moving to another state and becoming a student again. Now I study bachelor's in data science and I am very happy to say that I also work in the field.
+The year is 2020, a pandemic starts and we are all forced to stay home to protect ourselves and everybody else from this disease. During this reclusion time, I've decided to leave my master's program and pursue something that I've wanted to since the middle of undergrad: a career in computer science. I ended up moving to another state and becoming a student again. Now I'm studying for a bachelor's in data science and I am very happy to say that I also work in the field.
 
 ### Another passion
 
