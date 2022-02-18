@@ -8,16 +8,16 @@ I always liked to study and always had a passion for hard sciences. In the middl
 
 ### An interesting story
 
-The year is 2020, a pandemic starts and we are all forced to stay home to protect ourselves and everybody else from this disease. During this reclusion time, I've decided to leave my master's program and pursue something that I've wanted to since the middle of undergrad: a career in computer science. I ended up moving to another state and becoming a student again. Now I'm studying for a bachelor's in data science and I am very happy to say that I also work in the field.
+The year is 2020, a pandemic starts and we are all forced to stay home to protect ourselves and everybody else from this disease. During this reclusion time, I've decided to leave my master's program and pursue something that I've wanted to since the middle of undergrad: a career in computer science. I ended up moving to another state and becoming a student again. Now I'm studying for a bachelor's in data science while I am a junior data scientist in a start-up and an intern in another company.
 
 ### Another passion
 
-I live Brazil, so my native language is portuguese. Growing up I've always loved to unravel the misteries of other cultures, hence I started learning new languages to accomplish that. I speak fluently English, I attended a basic course of french in University, I've been studying german for 5 years (with some pauses along the way) and Japanese for almost a year now. I intend to go back to studying french soon and other languages in the future.
+I live Brazil, so my native language is portuguese. Growing up I've always loved to unravel the misteries of other cultures, hence I started learning new languages to accomplish that. I speak English fluently and I have been studying other languages over the years, such as French, German and Japanese. I've been studying german for 5 years (with some pauses along the way) and Japanese for more than a year now. I intend to go back to studying french soon and other languages in the future.
 
 ### What I am working on now..
 
-I am working on data series analysis and cloud computing.
+I am working with geolocation analysis and cloud computing.
 
 ### About this Page
 
-Here I'll be sharing some of my creations (good or bad) and what I've been working on. 
+Here I'll be sharing some of my creations, projects and codes I have been developing. 
