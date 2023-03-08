@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Luana Oliveira and I am a physicist who works with data science. I am an undergraduate student at Universidade Virtual de São Paulo [(Univesp)](https://univesp.br/), currently on my fourth semester. I am interested in machine learning algorithms and applications.
+My name is Luana Oliveira and I am a physicist who currently works with data engineering. I am an undergraduate student at Universidade Virtual de São Paulo [(Univesp)](https://univesp.br/), currently on my fourth semester. I am interested in machine learning algorithms and applications.
 
 ### About me
 
