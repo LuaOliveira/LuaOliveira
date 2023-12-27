@@ -4,7 +4,7 @@ My name is Luana Oliveira and I am a physicist who currently works with data eng
 
 ### About me
 
-I always liked to study and always had a passion for hard sciences. In the middle of my final year in high school, in 2012, I was accepted in Universidade de Brasília [(UnB)](https://www.unb.br/) to attend a physics course. I graduated at the end of 2017, soon entering a master's program in the same university, with focus on cosmology and radioastronomy. At the same time I started working as a physics teacher in local public schools and so I remained for almost 4 years until I've decided to follow another career.
+I always liked to study and always had a passion for hard sciences. In the middle of my final year in high school, in 2012, I was accepted in Universidade de Brasília [(UnB)](https://www.unb.br/) to attend a physics course. I graduated at the end of 2017, soon entering a master's program in the same university, with focus on cosmology and radioastronomy. At the same time I started working as a physics teacher in local public schools and so I remained for almost 4 years until I decided to follow another career.
 
 ### An interesting story
 
